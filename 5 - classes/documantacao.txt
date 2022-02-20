@@ -1,0 +1,5 @@
+esse arquivo é documentação da conta corrente
+aki pondem ser visualizdos todas as funcinalidades do sistema
+sacar - saca
+depositar - deposita
+é isso
